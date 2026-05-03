@@ -70,9 +70,9 @@ class _DicePageState extends State<DicePage> {
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
             colors: <Color>[
-              Color(0xFFFFE0B2),
+              Color(0xFFDA6B42),
               Color(0xFFFFF3E0),
-              Color(0xFFFFCC80),
+              Color(0xFFDA9736),
             ],
           ),
         ),
