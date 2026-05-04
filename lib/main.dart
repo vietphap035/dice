@@ -72,7 +72,7 @@ class _DicePageState extends State<DicePage> {
             colors: <Color>[
               Color(0xFFDA6B42),
               Color(0xFFFFF3E0),
-              Color(0xFFDA9736),
+              Color(0xFFDA3636),
             ],
           ),
         ),
